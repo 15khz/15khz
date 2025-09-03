@@ -36,6 +36,7 @@
 | AOC | L229BXA007146 | LCD | 22 | No | | |
 | AOC | LM522 | LCD | 15 | No | | |
 | AOC | LM722 | LCD/LED| 17 | No | | |
+| Asus | BE24EQK | LCD/LED | 24 | Partial | Tested on PAL Amiga 500/600/1000 with buffered 15 kHz VGA. Good standard image with jailbars. No 4:3 aspect setting, only 16:9. Interlaced modes flicker badly | New!|
 | Asus | PB248 | | 24 | Yes | PAL/NTSC, incorrect field order in interlace, no 4:3 aspect setting | |
 | Asus | VW227D | | 21 | Yes | | |
 | Asus | VE225 | | 22 | Yes | Standard Falcon resolutions too. TT030 works but not centered (for ATARI ST) | |
@@ -127,6 +128,7 @@
 | Idek/Iiyama | ProLite X2783HSU | LCD | 27 | Yes | Using GGLABS CGA2RGB adaptor, rock solid picture! | New! |
 | Iiyama | Vision Master Pro 413 | CRT | 17 | No | Sync not in range message | New! | 
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
+| Lenovo | 9227-AG1 | | 17 | No | | |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
 | LG | 26LG30R | LCD | 26 | No | | |
