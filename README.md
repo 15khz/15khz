@@ -36,6 +36,7 @@
 | AOC | L229BXA007146 | LCD | 22 | No | | |
 | AOC | LM522 | LCD | 15 | No | | |
 | AOC | LM722 | LCD/LED| 17 | No | | |
+| AOC | С27G1G4 | LCD/LED| 27 | Yes | VGA input. Modes: Wide (fullscreen), 1:1, 4:3, 17” (4:3), 19” (4:3),  19” (5:4),  19”W (16:10), 21.5”W (16:9), 22”W(16:10), 23”W (16:9), 23.6”W(16:9), 24”W (16:9) | Interlace mode flickers very badly|
 | Asus | BE24EQK | LCD/LED | 24 | Partial | Tested on PAL Amiga 500/600/1000 with buffered 15 kHz VGA. Good standard image with jailbars. No 4:3 aspect setting, only 16:9. Interlaced modes flicker badly | New!|
 | Asus | PB248 | | 24 | Yes | PAL/NTSC, incorrect field order in interlace, no 4:3 aspect setting | |
 | Asus | VW227D | | 21 | Yes | | |
