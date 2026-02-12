@@ -262,6 +262,8 @@
 | Sun | PN17JO | CRT | 17 | No | | |
 | Sun | Sunray 170 | LCD | 17 | Yes | | |
 | DEXP | QF321K | LCD | 32 | Yes | | |
+| ViewSonic| VA2432-MHD-3 | IPS | 23,8 | YES| NEW |
+| ViewSonic| VS2247 | IPS | 22 | YES| report @ https://eab.abime.net/showthread.php?t=122196  |
 
 # VGA tester
 [Pocket-sized tester.](https://github.com/planeturban/15khzvgatester)
