@@ -109,6 +109,7 @@
 | Fujilink | A1901W | LCD/TV | 19 | Yes | | |
 | Fujitsu | C19-1| LCD | 19 | NO | | |
 | Fujitsu | B22W-5 ECO | LCD | 22 | NO | Black screen with PAL Amiga | New! |
+| Fujitsu | B22T-7 | LED | 22 | Yes | Works well with A500,1200,2000. Laced modes - with flicker | update:2025-10 |
 | Fujitsu Siemens| Scaleoview L19-2 L9ZA | LCD | 19 | NO | Black Screen with PAL. Further model number: K1117-V173 | New! |
 | Fujitsu Siemens| Scaleoview B19-3 | LCD | 19 | NO | Gives error message, cannot display 15khz | New! |
 | GRADIENTE | 2730 | LCD/TV | 27 | Yes | | |
@@ -189,6 +190,7 @@
 | Philips | 107E6 | CRT | 17 | No | | |
 | Philips | 107S | LCD/LED| 17 | No | | |
 | Philips | 150S | LCD/LED| 15 | No | | |
+| Philips | 150B2 | LCD/LED| 15 | No | "Mode not supported, switch to 1024x768@60 Hz" | update:2025-10 |
 | Philips | 190VW | LCD/LED| 19 | No | | |
 | Philips | 215VW | LCD/LED| 21,5 | No | | |
 | Philips | 221S9 | LCD | 21 | Yes | [EAB_link](https://eab.abime.net/showthread.php?p=1691844) | update:2024-06 |
