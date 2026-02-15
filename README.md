@@ -54,6 +54,7 @@
 | Benq | G206HQL | LCD/LED| 20 | Yes | | |
 | BenQ | G2420 | | 24 | Yes | | |
 | BenQ | G2420HD | | 24 | Yes | | |
+| BenQ | G2420HDB | | 24 | No | Tested on A1200 with buffered DB23/VGA adapter. Monitor detects signal, black screen only, no sync warnings. | Tested 15/02/2026 | |
 | BenQ | G922HDL | | 19 | Partial | Uncorrectable aspect ratio, interlaced mode flickers too much. | |
 | Benq | G925HDA | LCD/LED| 19 | No | | |
 | Benq | RL2240HE | LCD/LED| 22 | Yes | | |
