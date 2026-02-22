@@ -246,6 +246,7 @@
 | Samsung | SyncMaster 915N | LCD | 19 | Yes | | |
 | Samsung | SyncMaster 915T | LCD | 19 | Yes | | |
 | Samsung | SyncMaster 933 | LCD/LED| 19 | No | | |
+| Samsung | SyncMaster 930MP | LCD/LED| 19 | Yes | works great with Amiga 500 and C64 | Model MP S! |
 | Samsung | SyncMaster 940BE | | 19 | Partial | sometimes difficult to get it to sync without jitter, but you can do it | |
 | Samsung | SyncMaster 940BW | LCD | 19 | No | White screen and test pattern screen showed up when analog input selected | NEW |
 | Samsung | SyncMaster E2220N | LCD/LED | 22 | No | | |
